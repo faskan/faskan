@@ -53,6 +53,7 @@
 - [LinkedIn](https://www.linkedin.com/in/faisalkhanthayub/)
 - [Blog](https://fazkan.blog/)
 - [Website](https://www.techroots.be/home)
+- [X](https://x.com/fazkan87)
 
 <!--
 **faskan/faskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
