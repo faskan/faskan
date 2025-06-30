@@ -34,7 +34,7 @@
 ### 🐛 Defect Reports
 | Repository                                      | Issue Description                          | Status     | Link                                                                 | Date       |
 |------------------------------------------------|--------------------------------------------|------------|----------------------------------------------------------------------|------------|
-| `smallrye/smallrye-graphql`                    | Failure with sealed interfaces             | Open       | [Link](https://github.com/smallrye/smallrye-graphql/issues/2237)     | 2024-12-06 |
+| `smallrye/smallrye-graphql`                    | Failure with sealed interfaces             | Closed       | [Link](https://github.com/smallrye/smallrye-graphql/issues/2237)     | 2024-12-06 |
 | `quarkusio/quarkus`                            | Custom Identity Provider not working on AWS lambda | Open       | [Link](https://github.com/quarkusio/quarkus/issues/24609)    | 2022-03-29 |
 | `quarkusio/quarkus`                            | Quarkus IT test failure                   | Closed       | [Link](https://github.com/quarkusio/quarkus/issues/24860)           | 2022-04-10 |
 | `quarkusio/quarkus`                            | JPA overridden properties not evaluated   | Closed       | [Link](https://github.com/quarkusio/quarkus/issues/27893)           | 2022-09-13 |
