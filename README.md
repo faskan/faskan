@@ -13,22 +13,6 @@
 
 ---
 
-## 🔥 Side Projects
-
-| Project Name                       | Description                                                                                       | Status      | Links                                                                                  |
-|------------------------------------|---------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------|
-| **KairaliBelgium**(https://kairalibelgium.com/)                 | Website for a non-profit organization for the Kerala community in Belgium                        | LIVE   | [GitHub Repo](https://github.com/kairalibelgium/kairali-ng-web-app) |
-| **LoveMeKitchen**(https://www.lovemekitchen.be/)                  | Website for Love Me Indian Kitchen                                                               | LIVE   | [GitHub Repo](https://github.com/TECHROOTS-BV/lovemekitchen) |
-| **BookTix**(https://tix.techroots.be/home)                        | A simple ticketing platform for events integrated with Payconiq                                   | LIVE & In Progress      | [GitHub Repo](https://github.com/TECHROOTS-BV/booktix-ng-app) |
-| **EzyTix**                         | Serverless backend for BookTix                                                                   | LIVE & In Progress       | [GitHub Repo](https://github.com/TECHROOTS-BV/monorepo/tree/main/apis/ezytix) |
-| **Techroots Website**(https://www.techroots.be/home)              | Company website                                                                                  | LIVE   | [GitHub Repo](https://github.com/TECHROOTS-BV/techroots-website) |
-| **DBStudio**(https://play.google.com/store/apps/details?id=be.techroots.db_studio&hl=en)                       | A data drive app together with database editor                          | LIVE & In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/db_studio) |
-| **EndeCalendar**                   | TypeScript library for an event calendar                                                        | In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/ende-calendar) |
-| **MyHours**                        | Time tracking application (dependent on EndeCalendar)                                            | In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/my-hours) |
-| **MBizSuite**                      | Tiny invoicing tool for small businesses                                                         | Inactive    | [GitHub Repo](https://github.com/faskan/mbiz-suite-mobileapp) |
-
----
-
 ## 🌐 Open Source Contributions
 
 ### 🐛 Defect Reports
@@ -54,6 +38,22 @@
 - [Blog](https://fazkan.blog/)
 - [Website](https://www.techroots.be/home)
 - [X](https://x.com/fazkan87)
+
+---
+
+## 🔥 Side Projects
+
+| Project Name                       | Description                                                                                       | Status      | Links                                                                                  |
+|------------------------------------|---------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------|
+| **KairaliBelgium**(https://kairalibelgium.com/)                 | Website for a non-profit organization for the Kerala community in Belgium                        | LIVE   | [GitHub Repo](https://github.com/kairalibelgium/kairali-ng-web-app) |
+| **LoveMeKitchen**(https://www.lovemekitchen.be/)                  | Website for Love Me Indian Kitchen                                                               | LIVE   | [GitHub Repo](https://github.com/TECHROOTS-BV/lovemekitchen) |
+| **BookTix**(https://tix.techroots.be/home)                        | A simple ticketing platform for events integrated with Payconiq                                   | LIVE & In Progress      | [GitHub Repo](https://github.com/TECHROOTS-BV/booktix-ng-app) |
+| **EzyTix**                         | Serverless backend for BookTix                                                                   | LIVE & In Progress       | [GitHub Repo](https://github.com/TECHROOTS-BV/monorepo/tree/main/apis/ezytix) |
+| **Techroots Website**(https://www.techroots.be/home)              | Company website                                                                                  | LIVE   | [GitHub Repo](https://github.com/TECHROOTS-BV/techroots-website) |
+| **DBStudio**(https://play.google.com/store/apps/details?id=be.techroots.db_studio&hl=en)                       | A data drive app together with database editor                          | LIVE & In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/db_studio) |
+| **EndeCalendar**                   | TypeScript library for an event calendar                                                        | In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/ende-calendar) |
+| **MyHours**                        | Time tracking application (dependent on EndeCalendar)                                            | In Progress | [GitHub Repo](https://github.com/TECHROOTS-BV/my-hours) |
+| **MBizSuite**                      | Tiny invoicing tool for small businesses                                                         | Inactive    | [GitHub Repo](https://github.com/faskan/mbiz-suite-mobileapp) |
 
 <!--
 **faskan/faskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
